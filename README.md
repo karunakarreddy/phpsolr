@@ -1,0 +1,4 @@
+phpsolr
+=======
+
+php-solr-client
